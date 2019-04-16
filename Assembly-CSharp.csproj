@@ -322,17 +322,11 @@
     <Reference Include="System.Configuration">
       <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Assets/Scenes/Arkanoid_Data/Managed/System.Configuration.dll</HintPath>
     </Reference>
-    <Reference Include="System.Core">
-      <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Assets/Scenes/Arkanoid_Data/Managed/System.Core.dll</HintPath>
-    </Reference>
     <Reference Include="System.Data">
       <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Assets/Scenes/Arkanoid_Data/Managed/System.Data.dll</HintPath>
     </Reference>
     <Reference Include="System.Diagnostics.StackTrace">
       <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Assets/Scenes/Arkanoid_Data/Managed/System.Diagnostics.StackTrace.dll</HintPath>
-    </Reference>
-    <Reference Include="System">
-      <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Assets/Scenes/Arkanoid_Data/Managed/System.dll</HintPath>
     </Reference>
     <Reference Include="System.Drawing">
       <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Assets/Scenes/Arkanoid_Data/Managed/System.Drawing.dll</HintPath>
