@@ -595,12 +595,6 @@
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Purchasing">
-      <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Library/PackageCache/com.unity.purchasing@2.0.6/UnityEngine.Purchasing.dll</HintPath>
-    </Reference>
-    <Reference Include="mscorlib">
-      <HintPath>C:/Users/Hiszpan/Documents/Arkanoid/Assets/Scenes/Arkanoid_Data/Managed/mscorlib.dll</HintPath>
-    </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
     </Reference>
