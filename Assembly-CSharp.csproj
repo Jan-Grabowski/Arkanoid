@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\LevelManager.cs" />
+    <Compile Include="Assets\LoseCollider.cs" />
     <None Include="Assets\Scenes\Arkanoid_Data\Managed\UnityEngine.VRModule.xml" />
     <None Include="Assets\Scenes\Arkanoid_Data\Managed\UnityEngine.ClothModule.xml" />
     <None Include="Assets\Scenes\Arkanoid_Data\Managed\UnityEngine.SubstanceModule.xml" />
