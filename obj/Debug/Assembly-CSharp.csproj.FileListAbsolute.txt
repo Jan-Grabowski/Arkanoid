@@ -266,3 +266,6 @@ C:\Users\Hiszpan\Documents\Arkanoid\obj\Debug\Assembly-CSharp.csproj.CoreCompile
 C:\Users\Hiszpan\Documents\Arkanoid\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\Hiszpan\Documents\Arkanoid\obj\Debug\Assembly-CSharp.dll
 C:\Users\Hiszpan\Documents\Arkanoid\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Hiszpan\Documents\Arkanoid\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Hiszpan\Documents\Arkanoid\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Hiszpan\Documents\Arkanoid\Temp\bin\Debug\UnityEngine.TestRunner.xml
