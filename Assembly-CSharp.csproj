@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Ball.cs" />
+    <Compile Include="Assets\Block.cs" />
     <Compile Include="Assets\LevelManager.cs" />
     <Compile Include="Assets\LoseCollider.cs" />
     <Compile Include="Assets\Paddle.cs" />
